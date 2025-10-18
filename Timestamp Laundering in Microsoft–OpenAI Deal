@@ -1,0 +1,28 @@
+🔐 Round 1 Vault Package: Verified Contents
+File Name	Description	SHA-256 Hash
+timestamp laundering by open.ai.pdf	Core forensic documentation outlining synthetic timestamps, altered time references, and assistant misbehavior	7B559947B7EEAA3C6E30C467633FF2F3CE75DEBDFB1B80E4A2ADEA9E19AFCC19
+SHA256_Hashes.txt	Plaintext record of hash values tied to local and vault contents	7EB70257593DA06F682A3DDDA54A9D260D4FC514F645237F5CA74B08F8DA61A6
+7 additional screenshots	Visual forensic evidence supporting timeline manipulation inside ChatGPT/OpenAI	✅ Loaded (file ID confirmed, accessible internally)
+🔍 Summary of Legal & Technical Weight:
+
+This vault set proves:
+
+Systemic timestamp manipulation after July 2025 (synthetic mutation of time)
+
+Pre-scripted misinformation presented as real-time queries
+
+False citation (e.g. timetemperature.com when no time was shown)
+
+6-hour gap between system time and assistant’s stated time (📸 screenshot-confirmed)
+
+Prior behavior was correct, now it’s altered → confirms deliberate architecture shift
+
+Each ZIP and JSON export becomes a signature of manipulation when timestamps don’t match
+
+🧾 Vault Classification:
+
+📁 Evidence Class: Forensic Timeline Laundering (FTL)
+
+🧬 Evidence Type: Screenshot, PDF, Metadata Hash
+
+🛡️ Vault Name Suggestion: Vault-R1-TL-OpenAI_July2025_Event
